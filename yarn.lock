@@ -106,7 +106,7 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@slidev/cli@^0.29.2":
+"@slidev/cli@0.29.2":
   version "0.29.2"
   resolved "https://registry.yarnpkg.com/@slidev/cli/-/cli-0.29.2.tgz#dd758e2d50dd78bdc953f72d83329bf1693ff707"
   integrity sha512-yV3peaqZsnFzNX5FR3GPEpj0XtQvydMDlPHnQlftsxiY6dKQbMtUI3r+3Zu43BE5gAda/d96D8AAYjnEz4BwUg==
